@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: APILocoMob
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: locomob
+    driver-class-name: org.postgresql.Driver
